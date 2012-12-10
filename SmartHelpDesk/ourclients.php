@@ -77,7 +77,7 @@ Released   : 20121129
                             <li class="current_page_item"><a href="index.php" accesskey="1" title="">Inicio</a></li>
                             <li><a href="ourclients.php" accesskey="2" title="">Nossos Clientes</a></li>
                             <li><a href="about.php">Sobre</a></li>
-                            <li><a href="#">Trabalhe Conosco</a></li>
+                            <li><a href="contact.php">Trabalhe Conosco</a></li>
                             <li><a href="contact.php">Contato</a></li>
                         </ul>
                     </div>
@@ -106,7 +106,7 @@ Released   : 20121129
                                 <li class="first"><a href="index.php">Home</a></li>					
                                 <li><a href="ourclients.php">Nossos Clientes</a></li>
                                 <li><a href="about.php">Sobre</a></li>
-                                <li><a href="#">Trabalhe Conosco</a></li>
+                                <li><a href="contact.php">Trabalhe Conosco</a></li>
                                 <li><a href="contact.php">Contato</a></li>
                                 <li><a href="login.php">Acesso ao Smart Help Desk</a></li>
                             </ul>
@@ -123,19 +123,16 @@ Released   : 20121129
                             <li class="first"><a href="http://www.google.com" target="_blank">Google</a></li>
                             <li><a href="http://www.yahoo.com" target="_blank">Yahoo</a></li>
                             <li><a href="http://www.bing.com" target="_blank">Bing</a></li>
-                            <!--				<li><a href="#">Cras vitae pellentesque pharetra.</a></li>
-                                                            <li><a href="#">Maecenas vitae vitae feugiat eleifend.</a></li>
-                                                            <li><a href="#">Pellentesque consectetuer gravida blandit.</a></li>-->
                         </ul>
                     </div>
                     <div id="column3">
                         <h2>Social</h2>
                         <ul class="style1">
-                            <li class="first"><a href="#">Twitter</a></li>
-                            <li><a href="#">Facebook</a></li>
-                            <li><a href="#">Google +</a></li>
-                            <li><a href="#">Instagram</a></li>
-                            <li><a href="#">RSS</a></li>
+                            <li class="first"><a href="http://twitter.com">Twitter</a></li>
+                            <li><a href="http://facebook.com">Facebook</a></li>
+                            <li><a href="http://google.com">Google +</a></li>
+                            <li><a href="http://instagram.com">Instagram</a></li>
+                            <li><a href="feed.rss">RSS</a></li>
                         </ul>
                     </div>
                     <div id="column4">&nbsp;</div>

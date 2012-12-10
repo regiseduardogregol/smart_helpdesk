@@ -37,7 +37,7 @@ Released   : 20121129
                             <li class="current_page_item"><a href="index.php" accesskey="1" title="">Inicio</a></li>
                             <li><a href="ourclients.php" accesskey="2" title="">Nossos Clientes</a></li>
                             <li><a href="about.php">Sobre</a></li>
-                            <li><a href="#">Trabalhe Conosco</a></li>
+                            <li><a href="contact.php#">Trabalhe Conosco</a></li>
                             <li><a href="contact.php">Contato</a></li>
                         </ul>
                     </div>
@@ -65,7 +65,7 @@ Released   : 20121129
                                 <li class="first"><a href="index.php">Home</a></li>
                                 <li><a href="ourclients.php">Nossos Clientes</a></li>
                                 <li><a href="about.php">Sobre</a></li>
-                                <li><a href="#">Trabalhe Conosco</a></li>
+                                <li><a href="contact.php">Trabalhe Conosco</a></li>
                                 <li><a href="contact.php">Contato</a></li>
                                 <li><a href="login.php">Acesso ao Smart Help Desk</a></li>
                             </ul>
@@ -83,9 +83,6 @@ Released   : 20121129
                             <li class="first"><a href="http://www.google.com" target="_blank">Google</a></li>
                             <li><a href="http://www.yahoo.com" target="_blank">Yahoo</a></li>
                             <li><a href="http://www.bing.com" target="_blank">Bing</a></li>
-                            <!--				<li><a href="#">Cras vitae pellentesque pharetra.</a></li>
-                                                            <li><a href="#">Maecenas vitae vitae feugiat eleifend.</a></li>
-                                                            <li><a href="#">Pellentesque consectetuer gravida blandit.</a></li>-->
                         </ul>
                     </div>
                     <div id="column3">
