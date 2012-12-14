@@ -28,16 +28,16 @@ Released   : 20121129
             <div id="header-wrapper">
                 <div id="header">
                     <div id="logo">
-                        <h1><a href="#">Smart Help Desk</a></h1>
+                        <h1><a href="index.php">Smart Help Desk</a></h1>
                         <p>Easy, Simple and Painless</p>
                     </div>
                     <div id="menu">
                         <ul>
-                            <li class="current_page_item"><a href="index.php" accesskey="1" title="">Inicio</a></li>
+                            <li><a href="index.php" accesskey="1" title="">Inicio</a></li>
                             <li><a href="ourclients.php" accesskey="2" title="">Nossos Clientes</a></li>
                             <li><a href="about.php">Sobre</a></li>
-                            <li><a href="#">Trabalhe Conosco</a></li>
-                            <li><a href="contact.php">Contato</a></li>
+                            <li><a href="contact.php">Trabalhe Conosco</a></li>
+                            <li class="current_page_item"><a href="contact.php">Contato</a></li>
                         </ul>
                     </div>
                 </div>
@@ -55,14 +55,13 @@ Released   : 20121129
                             <h2>Contato</h2>
                             <p>A central de ajuda que você precisava!</p>
                             <form>
-                                Nome<br />
-                                <input type="text" name="nome" /><br />
-                                E-Mail<br />
-                                <input type="email" name="email" /><br />
-                                Mensagem<br />
-                                <textarea cols="40" rows="10" style="resize:none;" name="mensagem"></textarea><br />
+                                Nome:<br />
+                                <input type="text" name="nome" required="true"/><br />
+                                E-Mail:<br />
+                                <input type="email" name="email" required="true"/><br />
+                                Mensagem:<br />
+                                <textarea cols="40" rows="10" style="resize:none;" required="true" name="mensagem"></textarea><br />
                                 <input type="submit" value="Enviar" />
-                                
                             </form>
                         </div>
                         <div id="sidebar">
@@ -71,7 +70,7 @@ Released   : 20121129
                                 <li class="first"><a href="index.php">Home</a></li>
                                 <li><a href="ourclients.php">Nossos Clientes</a></li>
                                 <li><a href="about.php">Sobre</a></li>
-                                <li><a href="#">Trabalhe Conosco</a></li>
+                                <li><a href="contact.php">Trabalhe Conosco</a></li>
                                 <li><a href="contact.php">Contato</a></li>
                                 <li><a href="login.php">Acesso ao Smart Help Desk</a></li>
                             </ul>

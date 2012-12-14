@@ -29,14 +29,14 @@ Released   : 20121129
 
                 <div id="header">
                     <div id="logo">
-                        <h1><a href="#">Smart Help Desk</a></h1>
+                        <h1><a href="index.php">Smart Help Desk</a></h1>
                         <p>Easy, Simple and Painless</p>
                     </div>
                     <div id="menu">
                         <ul>
-                            <li class="current_page_item"><a href="index.php" accesskey="1" title="">Inicio</a></li>
+                            <li><a href="index.php" accesskey="1" title="">Inicio</a></li>
                             <li><a href="ourclients.php" accesskey="2" title="">Nossos Clientes</a></li>
-                            <li><a href="about.php">Sobre</a></li>
+                            <li class="current_page_item"><a href="about.php">Sobre</a></li>
                             <li><a href="contact.php#">Trabalhe Conosco</a></li>
                             <li><a href="contact.php">Contato</a></li>
                         </ul>
@@ -75,8 +75,6 @@ Released   : 20121129
             </div>
             <div id="footer-bg">
                 <div id="footer-content" class="container">
-                    <div id="column1">&nbsp;
-                    </div>
                     <div id="column2">
                         <h2>Links Recomendados</h2>
                         <ul class="style1">

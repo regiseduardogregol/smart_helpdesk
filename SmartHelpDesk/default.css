@@ -6,7 +6,7 @@ Released for free under a Creative Commons Attribution 2.5 License
 */
 
 body {
-	margin: 0px 0px 0px 0px;
+	margin: 0 auto;
 	padding: 0;
 	background: #FF9A07 url(images/main-bg.png) repeat;
 	font-family: Arial, Helvetica, sans-serif;
@@ -211,6 +211,8 @@ hr {
 	padding: 0px 0px 0px 0px;
 }
 
+#content form{}
+
 #content h2 {
 	padding: 0px 0px 20px 0px;
 	letter-spacing: -1px;
@@ -299,6 +301,7 @@ hr {
 }
 
 #column2 {
+	margin-left: 40px;
 	float: left;
 	width: 280px;
 	margin-right: 30px;

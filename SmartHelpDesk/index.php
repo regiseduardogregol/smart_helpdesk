@@ -28,7 +28,7 @@ Released   : 20121129
             <div id="header-wrapper">
                 <div id="header">
                     <div id="logo">
-                        <h1><a href="#">Smart Help Desk</a></h1>
+                        <h1><a href="index.php">Smart Help Desk</a></h1>
                         <p>Easy, Simple and Painless</p>
                     </div>
                     <div id="menu">
