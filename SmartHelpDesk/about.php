@@ -37,7 +37,7 @@ Released   : 20121129
                             <li><a href="index.php" accesskey="1" title="">Inicio</a></li>
                             <li><a href="ourclients.php" accesskey="2" title="">Nossos Clientes</a></li>
                             <li class="current_page_item"><a href="about.php">Sobre</a></li>
-                            <li><a href="contact.php#">Trabalhe Conosco</a></li>
+                            <!--<li><a href="contact.php#">Trabalhe Conosco</a></li>-->
                             <li><a href="contact.php">Contato</a></li>
                         </ul>
                     </div>
